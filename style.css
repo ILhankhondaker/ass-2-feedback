@@ -1,0 +1,141 @@
+body{
+    background-color: rgb(253, 241, 223);
+}
+                /* section 1 */
+.pic{
+    height: 400px;
+    width: 490px;
+    border-radius: 10px;
+}
+.firsec{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.title{
+    font-size: 40px;
+    font-style: italic;
+}
+.tittle2{
+    color: indianred;
+    margin-top: -20px;
+    font-size: 26px;
+}
+#heading{
+    border-left: 7px solid ;
+    border-radius: 5px;
+    border-color: rgb(246, 178, 119);
+}
+.para{
+    width: 500px;
+    font-size: 30px;
+}
+.para3{
+    text-align: justify;
+}
+.but{
+    background-color: rgb(246, 178, 119);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+.fbicon{
+    height: 30px;
+    width: 30px;
+}
+.github{
+    height: 30px;
+    width: 30px;
+}
+
+                 /* section 2  */
+  #year{
+    color:rgb(253, 166, 89);
+  }
+ .title3{
+    text-align: center;
+    font-size: 40px;
+    padding: 30px;
+ } 
+ 
+.card{
+ margin: auto;
+ width: 250px;
+    background-color: rgb(185, 227, 213);
+    border: 5px solid rgb(252, 77, 77);
+    border-radius: 5px;
+    padding: 6px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.card h1{
+    text-align: center;
+
+}
+.pic2{
+    height: 100px;
+border-radius: 100px;
+}
+         
+
+.pic3{
+    width: 150px;
+    height: 100px;
+    border-radius: 70px;
+}
+.pic4{
+    width: 150px;
+    height: 100px;
+    border-radius: 60px;
+}
+.imgdiv{
+    display: flex;
+    justify-content: center;
+}
+.scesec{
+    display: flex;    
+} 
+                 /* section 3 */
+.pic5{
+    margin-top: 100px;
+    margin-left: 30px;
+    width: 450px;
+    height: 400px;
+    border-radius: 20px;
+} 
+.development{
+    padding: 50px;
+}          
+.thirdsec{
+    display: flex;
+}
+.development h1{
+    font-size: 40px;
+    color:rgb(253, 166, 89) ;
+}
+.para2{
+    font-size: 25px;
+}
+.but2{
+    background-color: rgb(246, 178, 119);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+.pic6{
+    height: 350x;
+    width: 450px;
+    border-radius: 20px;
+}
+.foursec{
+    display: flex;
+}
+footer{
+    padding: 8px;
+    background-color: rgb(58, 50, 50);
+}
+footer h2{
+    text-align: center;
+    color: white;
+}
+
